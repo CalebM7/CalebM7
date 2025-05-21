@@ -33,7 +33,8 @@ A responsive clone of the Netflix homepage built with HTML, CSS, and JavaScript.
 ### [Microsoft Homepage Clone](https://github.com/CalebM7/Microsoft-HomePage-project)
 A replica of Microsoft's homepage showcasing responsive design and modern UI practices.
 
-### [AquaNexus](https://github.com/CalebM7/aqua-nexus-frontend)(https://github.com/CalebM7/aqua-nexus-backend)
+### [AquaNexus](https://github.com/CalebM7/aqua-nexus-frontend)
+### [AquaNexus](https://github.com/CalebM7/aqua-nexus-backend)
 An upcoming project focused on water resource management solutions.
 
 ---
