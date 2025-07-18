@@ -2,7 +2,9 @@
 
 🌍 **Location:** Nairobi, Kenya  
 💻 **Role:** Full-Stack Developer  
-🎯 **Focus:** Building scalable web applications with modern technologies
+🎯 **Focus:** Building scalable web applications with modern technologies  
+📚 **Currently Learning & Practicing:** MERN Stack (MongoDB, Express.js, React, Node.js)
+
 
 ---
 
