@@ -5,11 +5,11 @@
 🎯 **Focus:** Building scalable web applications with modern technologies  
 📚 **Currently Learning & Practicing:** MERN Stack (MongoDB, Express.js, React, Node.js) and Python-Django
 
-
 ---
 
 ## 🛠️ Tech Stack
 
+<!-- Badges generated via https://github.com/qkrdmstlr3/techstack-generator -->
 <p align="left">
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -54,34 +54,25 @@
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   </a>
 </p>
----
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/CalebM7" target="_blank" rel="noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=CalebM7&show_icons=true&theme=tokyonight&hide_border=false" alt="Caleb's GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=CalebM7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Caleb's GitHub Stats" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/CalebM7?tab=languages" target="_blank" rel="noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalebM7&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-streak-stats.demolab.com?user=CalebM7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/CalebM7" target="_blank" rel="noreferrer">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=CalebM7&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalebM7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/CalebM7" target="_blank" rel="noreferrer">
-    <img src="https://github-profile-trophy.vercel.app/?username=CalebM7&theme=tokyonight&no-frame=false&margin-w=4" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=CalebM7&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -102,10 +93,20 @@ An upcoming project focused on water resource management solutions.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-muturi-0160b520a/)
-[![X (Twitter)](https://img.shields.io/badge/X-1A1A1A?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/caleb54924)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calebmuturi54924@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/caleb-muturi-0160b520a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/caleb54924" target="_blank">
+    <img src="https://img.shields.io/badge/X-1A1A1A?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  <a href="mailto:calebmuturi54924@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</p>
