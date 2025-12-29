@@ -60,19 +60,21 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CalebM7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Caleb's GitHub Stats" />
+  <a href="https://github.com/CalebM7">
+    <img src="https://gh-readme-profile.vercel.app/api?username=CalebM7&theme=dark&border_radius=10&hide_border=true" alt="GitHub Profile Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=CalebM7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=CalebM7&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalebM7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalebM7&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CalebM7&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CalebM7&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
 </p>
 
 ---
