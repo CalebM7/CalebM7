@@ -3,8 +3,8 @@
 🌍 **Location:** Nairobi, Kenya  
 💻 **Role:** Full-Stack Developer  
 🎯 **Focus:** Building scalable web applications with modern technologies  
-📚 **Currently Learning & Practicing:** MERN Stack (MongoDB, Express.js, React, Node.js) and Go (Golang)
-
+📚 **Currently Learning & Practicing:**  
+**MERN Stack (MongoDB, Express.js, React, Node.js)** and **Python–Django**
 
 ---
 
@@ -21,11 +21,14 @@
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   </a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -52,6 +55,7 @@
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   </a>
 </p>
+
 ---
 
 ## 📈 GitHub Stats
