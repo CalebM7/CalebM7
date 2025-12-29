@@ -56,13 +56,25 @@
 </p>
 ---
 
+---
+
 ## 📈 GitHub Stats
 
-[![Caleb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CalebM7&show_icons=true&theme=tokyonight&custom_title=Caleb%27s%20GitHub%20Stats)](https://github.com/CalebM7)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CalebM7&layout=compact&theme=tokyonight)](https://github.com/CalebM7)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CalebM7&show_icons=true&theme=tokyonight&hide_border=false" alt="Caleb's GitHub Stats" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CalebM7&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CalebM7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/CalebM7)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalebM7&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CalebM7&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CalebM7&theme=tokyonight&no-frame=false&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
