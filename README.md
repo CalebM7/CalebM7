@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://github.com/CalebM7">
-    <img src="https://gh-readme-profile.vercel.app/api?username=CalebM7&theme=dark&border_radius=10&hide_border=true" alt="GitHub Profile Stats" />
+    [![Caleb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CalebM7&show_icons=true&theme=tokyonight&custom_title=Caleb%27s%20GitHub%20Stats)](https://github.com/CalebM7)
   </a>
 </p>
 
@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CalebM7&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=CalebM7&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </p>
 
 ---
